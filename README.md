@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanu Mathew</h1>
 <h3 align="center">A Machine Learning Engineer from India.</h3>
+
 <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning **Docker, Streamlit, AWS**
 
@@ -12,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eadon_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eadon_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shanu mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanu mathew" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shanu-mathew-328601208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanu-mathew-328601208" height="30" width="40" /></a>
 <a href="https://kaggle.com/shanu mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanu mathew" height="30" width="40" /></a>
 <a href="https://instagram.com/eadon_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eadon_17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shanutmathew1703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanutmathew1703" height="30" width="40" /></a>
