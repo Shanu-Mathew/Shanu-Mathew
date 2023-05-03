@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shanu-Mathew](https://github.com/Shanu-Mathew)
 
-- 💬 Ask me about **Python, Data Science, Machine Learning**
+- 💬 Ask me about **Python, Data Analytics, Data Visualisation, Machine Learning**
 
-- 📫 How to reach me **shanutmathew1703@gmail.com**
+- 📫 Reach me at **shanutmathew1703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
