@@ -5,6 +5,7 @@
 <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
  <li> 🌱 I’m currently learning <b>Docker, Streamlit, AWS</b></li>
  <li>👨‍💻 All of my projects are available on https://github.com/Shanu-Mathew</li>
+  <li>🤝 Check starred repositories for my project collaborations</li>
 <li>💬 Ask me about <b>Python, Data Analytics, Data Visualisation, Machine Learning</b></li>
 <li>📫 Reach me at <b>shanutmathew1703@gmail.com<b></li>
 <li>🌲Linktree:- https://linktr.ee/Shanu_Mathew </li>
