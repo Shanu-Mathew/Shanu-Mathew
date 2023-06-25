@@ -8,8 +8,8 @@
   <li>🤝 Check starred repositories for my project collaborations</li>
 <li>💬 Ask me about <b>Python, Data Analytics, Data Visualisation, Machine Learning</b></li>
 <li>📫 Reach me at <b>shanutmathew1703@gmail.com<b></li>
-<li>🌲Social Linktree:- https://linktr.ee/Shanu_Mathew </li>
-<li>🌲Certifications Linktree:- https://linktr.ee/certifications_shanu_mathew</li>
+<li>🌲Socials:- https://linktr.ee/Shanu_Mathew </li>
+<li>🌲Certifications:- https://linktr.ee/certifications_shanu_mathew</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
